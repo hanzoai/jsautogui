@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="jsautogui" width="880"></p>
+
 # JSAutoGui
 
 > JSAutoGUI is an npm package for node.js. Inspired by pyautogui from python. (but noticably faster and better)
