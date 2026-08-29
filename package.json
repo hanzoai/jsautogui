@@ -23,6 +23,6 @@
   "license": "MIT",
   "dependencies": {
     "jstweening": "^1.0.1",
-    "node-gyp": "^11.2.0"
+    "node-gyp": "^13.0.2"
   }
 }
